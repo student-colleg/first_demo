@@ -1,4 +1,4 @@
 # first_demo
 This is my first git repository
 <br>
-This is first project in git
+This is git and github tutorial and this is first demo of this project
